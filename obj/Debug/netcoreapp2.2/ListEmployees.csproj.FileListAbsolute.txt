@@ -1,0 +1,11 @@
+C:\Users\ashp9\backend\workspace\ListEmployees\obj\Debug\netcoreapp2.2\ListEmployees.csprojAssemblyReference.cache
+C:\Users\ashp9\backend\workspace\ListEmployees\obj\Debug\netcoreapp2.2\ListEmployees.csproj.CoreCompileInputs.cache
+C:\Users\ashp9\backend\workspace\ListEmployees\obj\Debug\netcoreapp2.2\ListEmployees.AssemblyInfoInputs.cache
+C:\Users\ashp9\backend\workspace\ListEmployees\obj\Debug\netcoreapp2.2\ListEmployees.AssemblyInfo.cs
+C:\Users\ashp9\backend\workspace\ListEmployees\bin\Debug\netcoreapp2.2\ListEmployees.deps.json
+C:\Users\ashp9\backend\workspace\ListEmployees\bin\Debug\netcoreapp2.2\ListEmployees.runtimeconfig.json
+C:\Users\ashp9\backend\workspace\ListEmployees\bin\Debug\netcoreapp2.2\ListEmployees.runtimeconfig.dev.json
+C:\Users\ashp9\backend\workspace\ListEmployees\bin\Debug\netcoreapp2.2\ListEmployees.dll
+C:\Users\ashp9\backend\workspace\ListEmployees\bin\Debug\netcoreapp2.2\ListEmployees.pdb
+C:\Users\ashp9\backend\workspace\ListEmployees\obj\Debug\netcoreapp2.2\ListEmployees.dll
+C:\Users\ashp9\backend\workspace\ListEmployees\obj\Debug\netcoreapp2.2\ListEmployees.pdb
