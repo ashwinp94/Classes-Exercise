@@ -31,8 +31,11 @@ namespace ListEmployees
             foreach (Employees Employed in employees)
             {
                 Console.WriteLine( $"{Employed.FirstName} {Employed.LastName} is a {Employed.Title} who works at {Name}. He/She started working at {Name} on {Employed.StartDate}.");
-                Console.WriteLine($"{Name} was founded on {CreatedOn}");
             }
          }
+
+        public void CompanyInfo(){
+            Console.WriteLine($"{Name} was founded on {CreatedOn}");
+        }
     }
 }

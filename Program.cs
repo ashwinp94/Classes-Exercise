@@ -33,6 +33,7 @@ namespace ListEmployees
             newCompany1.employees.Add(newEmployee);
 
             newCompany1.ListEmployed();
+            newCompany1.CompanyInfo();
 
         }
     }
